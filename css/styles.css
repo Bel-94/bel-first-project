@@ -10,8 +10,11 @@ img {
     font-style: italic;
 }
 .important {
-    color: red;
+    color: white;
 }
 img {
     float: right;
+}
+body {
+    background-color: blueviolet;
 }
