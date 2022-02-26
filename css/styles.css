@@ -25,3 +25,12 @@ body {
     border-top: 6px solid orange;
     border-bottom: 8px solid black;
 }
+.box-model {
+    padding: 6px;
+}
+.box-model {
+    margin: 20px;
+}
+.box-model {
+    background-color: yellowgreen;
+}
