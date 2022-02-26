@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+styleimg {
+    background-image: url(/Downloads/artificial-intelligence-g7dae282fb_1920.jpg);
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 1280px;
+}
