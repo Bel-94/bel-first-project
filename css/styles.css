@@ -9,3 +9,6 @@ img {
 .intro {
     font-style: italic;
 }
+.important {
+    color: red;
+}
