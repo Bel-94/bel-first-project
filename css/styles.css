@@ -18,3 +18,10 @@ img {
 body {
     background-color: blueviolet;
 }
+.box-model {
+    border: 5px solid red;
+    border-left: 5px solid red;
+    border-right: 4px solid blue;
+    border-top: 6px solid orange;
+    border-bottom: 8px solid black;
+}
