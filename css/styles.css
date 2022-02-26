@@ -2,11 +2,9 @@ h1 {
     color: blue;
     text-align: center;
 }
-styleimg {
-    background-image: url(/images/istockphoto-479667835-612*612.jpg);
-    background-repeat: no-repeat;
-    width: 1920px;
-    height: 1280px;
+img {
+    width: 400px;
+    height: 400px;
 }
 .intro {
     font-style: italic;
