@@ -12,3 +12,6 @@ img {
 .important {
     color: red;
 }
+img {
+    float: right;
+}
