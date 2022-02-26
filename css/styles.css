@@ -34,3 +34,8 @@ body {
 .box-model {
     background-color: yellowgreen;
 }
+.sidebar {
+    width: 170px;
+    float: left;
+    background-color: wheat;
+}
